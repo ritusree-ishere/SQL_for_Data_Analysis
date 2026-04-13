@@ -1,13 +1,13 @@
-## E-commerce SQL Data Analysis Project
+## **E-commerce SQL Data Analysis Project**
 
 
-#### Objective
+#### **Objective**
 This project focuses on extracting and analyzing structured data using SQL. It demonstrates the use of queries, joins, aggregations, and optimization techniques.
 
-#### Tools Used
+#### **Tools Used**
 MySQL Workbench
 
-#### Features
+#### **Features**
 1.	Data retrieval using SELECT, WHERE, ORDER BY
 2.	Data analysis using GROUP BY and aggregate functions
 3.	Joins to combine multiple tables
@@ -15,10 +15,10 @@ MySQL Workbench
 5.	Views for simplified analysis
 6.	Indexing for performance optimization
 
-#### Dataset
+#### **Dataset**
 Custom e-commerce dataset including customers, products, orders, and order details.
 
-#### Key Insights
+#### **Key Insights**
 1.	Total sales per product
 2.	Customer spending patterns
 3.	Order-level analysis
